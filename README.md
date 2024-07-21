@@ -3,9 +3,9 @@
 - Clinical Documentation Integrity (CDI)
 - Machine Learning and AI
 - Python Programming
-- Astrophysics and UFOs
+- Science, Astrophysics, and UFOs
 - Reading sci-fi and fantasy books
-- Solving crossword puzzles
+- Crossword puzzles
 - Productivity tips and tools
 - Sports
 
